@@ -1,2 +1,1 @@
-# Le-Modpack
-# A Modpack Based Around ProjectE
+# Le Modpack: A Modpack Based Around ProjectE
