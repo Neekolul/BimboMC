@@ -1,1 +1,1 @@
-# Create Beyond: A Modpack Based around the create mod & a few others
+# BimboMC: A Modpack Based around being a dumb bimbo
